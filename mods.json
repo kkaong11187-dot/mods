@@ -1,0 +1,13 @@
+{
+  "packId": "pixelonline-neoforge-1.21.1",
+  "mcVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.200",
+  "mods": [
+    {
+      "fileName": "Pixelmon-1.21.1-neoforge.jar",
+      "url": "https://github.com/username/pixelonline-mods/releases/download/v1.0/Pixelmon-1.21.1-neoforge.jar",
+      "sha256": ""
+    }
+  ]
+}
