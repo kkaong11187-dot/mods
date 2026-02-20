@@ -6,37 +6,37 @@
   "mods": [
     {
       "fileName": "Pixelmon-1.21.1-neoforge.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/Pixelmon-1.21.1-9.3.14-universal.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/Pixelmon-1.21.1-9.3.14-universal.jar",
       "sha256": "4402e5d03847b219eb931c8ea4ac187c9baae2bfdecf1d15e92c78589d390f5c"
     },
     {
       "fileName":"entityculling-neoforge-1.8.2-mc1.21.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/entityculling-neoforge-1.8.2-mc1.21.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/entityculling-neoforge-1.8.2-mc1.21.jar",
       "sha256": "cea07c73c3da2a4396dc4e6af8fdb5f460d7a0c32b2ce6b645d6279ee9b5e2f2"
     },
     {
       "fileName":"fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
       "sha256": "fd3697cad87530af12b115a89eee8b2dbdf8a5146df93a1e4cd527ffeb3d2344"
     },
     {
       "fileName":"journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
       "sha256": "1eb931a3b0e333c537be14231eee3ec67d262bc338ba6ecc36922690142c37a2"
     },
     {
       "fileName":"koreanpatch-neoforge-1.9.0+mc1.21.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/koreanpatch-neoforge-1.9.0+mc1.21.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/koreanpatch-neoforge-1.9.0+mc1.21.jar",
       "sha256": "fcff680c7e67006c51315f70f0924ad977c25f3c05e95185e848291686ee4963"
     },
     {
       "fileName":"ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
       "sha256": "b057a83a2bc9ebbb473c383989ad8e42007d4654ce5c2cd7552fd67faa2f4267"
     },
     {
       "fileName":"sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "url": "https://github.com/kkaong11187-dot/mods/releases/download/v1.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
     }
   ]
