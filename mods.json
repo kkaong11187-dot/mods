@@ -38,6 +38,11 @@
       "fileName":"sodium-neoforge-0.6.13+mc1.21.1.jar",
       "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+    },
+    {
+      "fileName":"iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url":"https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha256":"3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
     }
   ]
 }
